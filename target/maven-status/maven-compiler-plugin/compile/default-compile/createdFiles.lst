@@ -1,0 +1,11 @@
+com/dpq/filter/containers/XmlXPathFilterByXSDStartup.class
+com/dpq/adapter/containers/FileInboundOutboundChannelAdapterStartup.class
+com/dpq/channel/containers/PollableChannelInDetailsStartup.class
+com/dpq/spring/integration/helpers/FileSelector.class
+com/dpq/adapter/containers/FileOutboundChannelAdapterStartup.class
+com/dpq/channel/containers/PollableChannelStartup.class
+com/dpq/filter/containers/XmlXPathFilterStartup.class
+com/dpq/channel/containers/DirectChannelStartup.class
+com/dpq/channel/containers/PubSubChannelStartup.class
+Demo.class
+com/dpq/filter/containers/MessageSelectorFilterStartup.class

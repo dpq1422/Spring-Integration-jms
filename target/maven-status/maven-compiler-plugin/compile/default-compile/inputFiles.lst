@@ -1,0 +1,11 @@
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/adapter/containers/FileInboundOutboundChannelAdapterStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/spring/integration/helpers/FileSelector.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/Demo.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/channel/containers/DirectChannelStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/filter/containers/XmlXPathFilterStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/adapter/containers/FileOutboundChannelAdapterStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/channel/containers/PubSubChannelStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/filter/containers/XmlXPathFilterByXSDStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/filter/containers/MessageSelectorFilterStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/channel/containers/PollableChannelStartup.java
+/Users/dpq/git/Spring-Integration-jms/src/main/java/com/dpq/channel/containers/PollableChannelInDetailsStartup.java
